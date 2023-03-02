@@ -1,0 +1,12 @@
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\bin\Debug\Tj-Sushi.exe.config
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\bin\Debug\Tj-Sushi.exe
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\bin\Debug\Tj-Sushi.pdb
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj-Sushi.csproj.AssemblyReference.cache
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj_Sushi.Form1.resources
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj_Sushi.FrmLogin.resources
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj_Sushi.FrmMenuPrincipal.resources
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj_Sushi.Properties.Resources.resources
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj-Sushi.csproj.GenerateResource.cache
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj-Sushi.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj-Sushi.exe
+C:\Users\guilherme.omacedo1\Documents\Visual Studio 2019\Empresa-TI107\Tj-Sushi\obj\Debug\Tj-Sushi.pdb
